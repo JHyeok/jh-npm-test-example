@@ -1,0 +1,19 @@
+{
+  "name": "jh-npm-test-example",
+  "version": "1.0.0",
+  "description": "JH NPM Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JHyeok/jh-npm-test-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JHyeok/jh-npm-test-example/issues"
+  },
+  "homepage": "https://github.com/JHyeok/jh-npm-test-example#readme"
+}
