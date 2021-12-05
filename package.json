@@ -1,6 +1,6 @@
 {
   "name": "jh-npm-test-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JH NPM Package",
   "main": "index.js",
   "scripts": {
